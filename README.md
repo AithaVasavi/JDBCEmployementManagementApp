@@ -23,15 +23,15 @@ This project demonstrates CRUD operations (Create, Read, Update, Delete), JDBC b
 
 6.✅ Demonstrates:  
 
-6a.JDBC Connection with DriverManager  
+          6a.JDBC Connection with DriverManager  
 
-6b.Use of PreparedStatement (to prevent SQL injection)  
+          6b.Use of PreparedStatement (to prevent SQL injection)  
 
-6c.Handling SQLExceptions  
+          6c.Handling SQLExceptions  
 
-6d.Use of try-with-resources for automatic closing  
+          6d.Use of try-with-resources for automatic closing  
 
-6e.DAO Pattern (EmployeeDAO)  
+          6e.DAO Pattern (EmployeeDAO)  
 
 ---
 
